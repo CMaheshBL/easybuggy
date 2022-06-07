@@ -1,5 +1,5 @@
 # Starter pipeline
-- task: Application security testing@2022
+- task: Application security testing
   inputs:
     projectName: 'easybuggy'
     enableProxy: false
