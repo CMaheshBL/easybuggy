@@ -1,7 +1,7 @@
 # Starter pipeline
 - task: Application security testing@2022
   inputs:
-    projectName: 'WebGoat.NET'
+    projectName: 'easybuggy'
     enableProxy: false
     enableSastScan: true
     CheckmarxService: 'CxApacTrialServer'
